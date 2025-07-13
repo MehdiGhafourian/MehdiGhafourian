@@ -13,7 +13,7 @@
 - 🌱 Exploring **Smart Money Concept (SMC)** based **Forex Trading Bots** using **Python + MetaTrader5**
 - 👯 Passionate about **Domain-Driven Design**, **WebPush Services**, and scalable backend systems
 - 💬 Ask me about: `.NET Core`, `Angular`, `DDD`, `AI`, `Docker`, `Redis`, `PostgreSQL`, `MongoDB`
-- 📫 Reach me at: `mehdighafourian.dev[at]gmail.com`
+- 📫 Reach me at: `mhd.gfa[at]gmail.com`
 
 ---
 
